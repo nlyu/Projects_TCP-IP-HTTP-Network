@@ -1,0 +1,15 @@
+test results:
+
+ wget small file from your server succeeded!
+ your client getting file from your server succeeded!
+ concurrency test succeeded!
+-25: INFINITE LOOP DETECTED IN TEST 3 (indexed starting from 1)
+ your client completed a simple request.
+ test non existing file passed.
+====================
+
+version:3
+score: 75/100
+all-time best score (your current grade): 75/100
+
+
